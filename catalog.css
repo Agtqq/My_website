@@ -1,0 +1,74 @@
+
+
+  .contr {
+    width:80%;
+height:2570px;
+position:absolute;
+left:200px;
+top:152px;
+background-image: url(vis/catcat.png);
+text-align: center;
+font-size: x-large;
+}
+
+h2 {
+    color: rgb(119, 78, 78);
+}
+
+.pr {
+    height:2600px;
+
+}
+
+.contd {
+    width:80%;
+height:1030px;
+position:absolute;
+left:200px;
+top:152px;
+background-image: url(vis/onanas.png);
+padding-left: 30px;
+font-size: x-large;
+font-family: arial;
+color: rgb(94, 49, 42);
+
+}
+
+.onit {
+    width:700px;
+   
+}
+
+.tet {
+    text-align: center;
+    font-size: 30px;
+}
+
+.ps {
+    height:1060px;
+}
+
+.conta {
+    width:80%;
+height:650px;
+position:absolute;
+left:200px;
+top:152px;
+background-image: url(vis/onanas.png);
+
+font-size: x-large;
+font-family: arial;
+text-align: center;
+
+}
+
+.pa {
+    height:680px;
+}
+
+.about {
+    margin: 0 auto;
+    width: 70%;
+ 
+
+ }
