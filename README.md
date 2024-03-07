@@ -1,3 +1,3 @@
 # My_site
-Online-store site prototype.
+Online-store website prototype.
 My 11th grade project on html+css
